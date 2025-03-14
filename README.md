@@ -1,16 +1,48 @@
-# chalenge
+# Modern Login Page
 
-A new Flutter project.
+## Overview
+Modern Login Page is a Flutter-based authentication screen with a sleek and intuitive UI. It includes username and password input fields with form validation, secure login functionality, and smooth transitions to enhance the user experience.
 
-## Getting Started
+## Features
+- Stylish and responsive UI design.
+- Username and password input fields with validation.
+- Secure password entry with hidden text.
+- Error handling for incorrect credentials.
+- Smooth page transitions.
+- Mobile-friendly layout with a curved header design.
 
-This project is a starting point for a Flutter application.
+## Installation
+### Prerequisites
+- Flutter SDK installed ([Flutter installation guide](https://flutter.dev/docs/get-started/install))
+- Android Studio or VS Code
+- Dart SDK
 
-A few resources to get you started if this is your first Flutter project:
+### Steps
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/imran7782/modern-login-page.git
+   cd modern-login-page
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the app:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## SHow case
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tech Stack
+- Flutter (Dart)
+- Custom UI Design
+- Form Validation
+
+
+
+
+## Contact
+For any inquiries or support, please reach out to [aemrancr@gmail.com] or open an issue in the repository.
+
