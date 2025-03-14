@@ -22,7 +22,7 @@ Modern Login Page is a Flutter-based authentication screen with a sleek and intu
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/modern-login-page.git
+   git clone https://github.com/imran7782/modern-login-page.git
    cd modern-login-page
    ```
 2. Install dependencies:
