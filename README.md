@@ -9,7 +9,8 @@ Modern Login Page is a Flutter-based authentication screen with a sleek and intu
 - Secure password entry with hidden text.
 - Error handling for incorrect credentials.
 - Smooth page transitions.
-- Mobile-friendly layout with a curved header design.
+- Mobile-friendly layout with a curved hea
+der design.
 
 ## Installation
 ### Prerequisites
@@ -33,6 +34,7 @@ Modern Login Page is a Flutter-based authentication screen with a sleek and intu
    ```
 
 ## SHow case
+![Screenshot 2025-03-14 201129](https://github.com/user-attachments/assets/7a5ba4d0-b0ec-441c-8aff-3800bf80721f)
 
 
 ## Tech Stack
